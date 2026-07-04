@@ -22,6 +22,6 @@ jobs:
   pipeline:
     uses: Dockershelf/node-pipeline/.github/workflows/update-meta-gbp.yml@main
     with:
-      dists-json: '["unstable"]'
+      dists-json: '["trixie", "unstable"]'
       publish: ${{ github.event_name == 'workflow_dispatch' && inputs.publish || github.event_name == 'schedule' }}
     secrets: inherit
