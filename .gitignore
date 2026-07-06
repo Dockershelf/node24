@@ -1,1 +1,6 @@
-work/
+/dist
+/work
+*.deb
+*.changes
+*.buildinfo
+*.orig.tar.gz
