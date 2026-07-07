@@ -1,4 +1,4 @@
-nodejs (24.0.0-1+trixie1) trixie; urgency=medium
+nodejs24 (24.0.0-1+trixie1) trixie; urgency=medium
 
   * Initial Dockershelf packaging for Node.js 24.
 
