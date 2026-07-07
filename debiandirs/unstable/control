@@ -1,4 +1,4 @@
-Source: nodejs24
+Source: nodejs-24
 Section: web
 Priority: optional
 Maintainer: Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>
@@ -14,7 +14,7 @@ Homepage: https://nodejs.org
 Vcs-Browser: https://github.com/Dockershelf/node24
 Vcs-Git: https://github.com/Dockershelf/node24.git
 
-Package: nodejs24
+Package: nodejs-24
 Architecture: any
 Multi-Arch: allowed
 Depends: ${shlibs:Depends},

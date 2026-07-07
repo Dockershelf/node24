@@ -1,4 +1,4 @@
-nodejs24 (24.0.0-1+unstable1) unstable; urgency=medium
+nodejs-24 (24.0.0-1+unstable1) unstable; urgency=medium
 
   * Initial Dockershelf packaging for Node.js 24.
 
