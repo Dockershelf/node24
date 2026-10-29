@@ -1,3 +1,9 @@
+nodejs-24 (24.22.2-1+trixie1) trixie; urgency=medium
+
+  * Update to v24.22.2.
+
+ -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Thu, 29 Oct 2026 14:53:29 +0000
+
 nodejs-24 (24.22.1-1+trixie1) trixie; urgency=medium
 
   * Update to v24.22.1.
